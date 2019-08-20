@@ -25,4 +25,4 @@ The Branch Phase-1 contains the initial version of the App with API call and pop
 A special Mention has to be made to [Axel Fuhrmann](https://github.com/afuh/rick-and-morty-api) for Taking the time-out to write the Rick & Morth API.
 
 # Screenshots:
-[logo] : https://github.com/warhero/mvvm/blob/phase-1/phase-1_screenshot.jpg?raw=true
+![phase-1 screenshot](/phase-1_screenshot.jpg?raw=true "phase-1 screenshot")
