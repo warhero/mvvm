@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mvvm App</string>
+    <string name="img_content_description">Places image</string>
+    <string name="Name">Name:</string>
+    <string name="Location">Location:</string>
+    <string name="species">Species:</string>
+    <string name="error_msg">something went wrong</string>
+</resources>
